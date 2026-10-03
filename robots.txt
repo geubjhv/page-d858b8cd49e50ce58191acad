@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-8f6bc962f5.hofamotor.cn/sitemap.xml
